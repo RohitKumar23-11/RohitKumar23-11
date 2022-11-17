@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning and Data Science
-- 📫 How to reach me ... 
+- 👨‍🦰 Current I am working as Junior Data Scientist. 
 
 
 <!---
